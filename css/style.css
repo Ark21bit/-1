@@ -211,11 +211,11 @@ h1,h2,h3
 
 .dropbtn {
     font-family: 'Playfair Display', serif;
-     background-color: transparent;    
+    background-color: transparent;    
     padding: 16px;
     font-size: 16px;
     border: none;
-	color:whitesmoke;
+color:whitesmoke;
 }
 
 .dropdown {
