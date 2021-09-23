@@ -210,8 +210,8 @@ h1,h2,h3
 }
 
 .dropbtn {
-    
-    
+    font-family: 'Playfair Display', serif;
+     background-color: transparent;    
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -227,7 +227,7 @@ h1,h2,h3
 .dropdown-content {
     display: none;
     position: absolute;
-    
+    background-color: #212F3C;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
